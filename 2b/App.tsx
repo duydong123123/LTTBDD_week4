@@ -32,7 +32,7 @@ const ProductReview = () => {
       {/* Container to align the image and text side by side */}
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '10px' }}>
         <img 
-          src="./image/image.png" 
+          src="./image/image1.png" 
           alt="USB Bluetooth Music Receiver" 
           style={{ width: '40px', height: '40px' }} 
         />
